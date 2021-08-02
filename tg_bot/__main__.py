@@ -20,10 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hi {}, my name is {}!
 
-I am a pever full bot for group management 😉 and i am totally free for you. 😊
+`I am a pever full bot for group management 😉 and i am totally free for you. 😊`
 
 For more commands click /help...😝
 
+Maintained By [Noo|b|otz](https://t.me/noobbots)
 """
 
 HELP_STRINGS = """
